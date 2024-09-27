@@ -125,7 +125,7 @@ function soluciones() {
                 break;
         
             case "3":
-                solucion2();
+                solucion3();
                 break;
         default:
             limpiecito();
